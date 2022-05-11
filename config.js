@@ -33,11 +33,11 @@ let wktu = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/Fh0eaf7IuuG3i67wXRC1O8', ''] // ganti jadi group lu
-global.owner = ['6285158866902'] // Put your number here //owner eval
-global.kontak = ['6285158866902','6282186172016'] //Ketika ada yang ngetik #owner
-global.mods = ['6285158866902'] // Want some help?
-global.prems = ['6285158866902'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/Idb23y8zNaGIOIfbRUBnm6', ''] // ganti jadi group lu
+global.owner = ['12263651312'] // Put your number here //owner eval
+global.kontak = ['12263651312','12263651312'] //Ketika ada yang ngetik #owner
+global.mods = ['12263651312'] // Want some help?
+global.prems = ['12263651312'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -72,7 +72,7 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/drak_ipul123'
+namaig = 'https://instagram.com/__lucid__dream_?igshid=YmMyMTA2M2Y='
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
 namakontak1 = ''
@@ -82,7 +82,7 @@ namakontak2 = ''
 
 // Sticker WM
 global.packname = '▧ Hασrι - Chαn' // ganti aja
-global.author = '© Zîѵғurr' // ganti aja
+global.author = '© ᴹᴿ᭄ᴛͦɪᷫsᷫᴜͥᴅͨᴇͥᴍᷧᴏᷝɴ' // ganti aja
 
 //yyy
 bc = 'Ħασяιвσтʓ' //King Of Bear Broadcast
